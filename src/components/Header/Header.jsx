@@ -6,7 +6,7 @@ import {FaGithub} from 'react-icons/fa'
 
 function Header() {
     return (
-        <header>
+        <header id='home'>
             <div className="container header_container">
                 <h1>Dianciré Diallo</h1>
                 <h5 className="text-light">Développeuse FullStack Junior</h5>
