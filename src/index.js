@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import Header from './components/Header/Header'
 import Nav from './components/Nav/Nav'
 import About from './components/About/About'
-import Experiences from './components/Experiences/Experiences'
+import Competences from './components/Competences/Competences'
 import Portofolio from './components/Portofolio/Portofolio'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
@@ -15,7 +15,7 @@ root.render(
     <Header />
     <Nav />
     <About />
-    <Experiences />
+    <Competences />
     <Portofolio />
     <Contact />
     <Footer />
